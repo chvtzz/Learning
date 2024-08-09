@@ -1,2 +1,2 @@
 # Learning
-My public projects for learning ;)
+My public projects for learning and improve my skills ;)
