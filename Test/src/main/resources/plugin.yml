@@ -1,0 +1,8 @@
+name: Test
+version: '1.0-SNAPSHOT'
+main: org.x.test.Test
+api-version: '1.20'
+prefix: ch-TestPlugin
+authors: [ chvtzz ]
+description: Test plugin
+website: https://github.com/chvtzz
